@@ -7,6 +7,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
 
 1. **Suma de los dígitos de un número**
+
    -For : '1.0.SumaDigitos-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/aa69b45bea63096471492bc5c0835e154d71ef49/1.0.SumaDigitos-For.c'
 
@@ -18,7 +19,8 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
 
 
 2. **Inverso de un número**
-   -For: '2.0.InversoNumero-For.c'
+
+    -For: '2.0.InversoNumero-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/3845640b46ec10091356deadf1e6fadecf2c604e/2.0.InversoNumero-For.c'
    
    -While: '2.1.InversoNumero-While.c'
@@ -29,6 +31,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    
 
 3. **Potencia mediante sumas sucesivas**
+
    -For: '3.0.SumaPotencia-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/3845640b46ec10091356deadf1e6fadecf2c604e/3.0.SumaPotencia-For.c'
    
@@ -40,6 +43,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    
 
 4. **Radicación mediante restas sucesivas**
+
    -For: '4.0.RadicacionRestas-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/4.0.RadicacionRestas-For.c'
    
@@ -51,6 +55,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    
    
 5. **Serie de Fibonacci**
+
    -For: '5.0.Fibonacci-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/5.0.Fibonacci-For.c'
    
@@ -62,7 +67,8 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    
 
 6. **Factorial de un número**
-   -For: '6.0.FactorialNumero-For.c'
+
+    -For: '6.0.FactorialNumero-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/6.0.FactorialNumero-For.c'
    
    -While: '6.1.FactorialNumero-While.c'
@@ -73,6 +79,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    
 
 7. **Suma de una serie aritmética**
+
    -For: '7.0.+SerieAritmetica-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/7.0.%2BSerieAritmetica-For.c'
    
@@ -84,6 +91,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    
 
 8. **Producto de una serie geométrica**
+
    -For: '8.0.SerieGeometrica-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/8.0.SerieGeometrica-For.c'
    
@@ -95,6 +103,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    
 
 9. **Número de dígitos de un número**
+
    -For: '9.0.DigitosNumeros-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/9.0.DigitosNumeros-For.c'
    
@@ -106,7 +115,8 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    
 
 10. **Verificar si un número es primo**
-    -For: '10.0.NumeroPrimo-For.c'
+
+     -For: '10.0.NumeroPrimo-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/10.0.NumeroPrimo-For.c'
     
     -While: '10.1.NumeroPrimo-While.c'
@@ -117,6 +127,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 11. **Encontrar el MCD (Máximo Común Divisor)**
+
     -For: '11.0.MCD-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/11.0.MCD-For.c'
     
@@ -128,6 +139,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 12. **Sumar los números impares hasta n**
+
     -For: '12.0.SumaImpares-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/12.0.SumaImpares-For.c'
     
@@ -139,6 +151,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 13. **Sumar los números pares hasta n**
+
     -For: '13.0.SumaPares-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/13.0.SumaPares-For.c'
     
@@ -150,6 +163,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 14. **Suma de los cuadrados de los primeros n números**
+
     -For: '14.0.SumaCuadrados-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/14.0.SumaCuadrados-For.c'
     
@@ -161,7 +175,8 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 15. **Suma de los cubos de los primeros n números**
-    -For: '15.0.SumaCubos-For.c'
+
+     -For: '15.0.SumaCubos-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/15.0.SumaCubos-For.c'
     
     -While: '15.1.SumaCubos-While.c'
@@ -172,6 +187,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 16. **Suma de una serie de números fraccionarios**
+
     -For: '16.0.SumaFraccionarios-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/16.0.SumaFraccionarios-For.c'
     
@@ -183,6 +199,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 17. **Producto de una serie de números fraccionarios**
+
     -For: '17.0.ProductoSerie-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/17.0.ProductoSerie-For.c'
     
@@ -194,7 +211,8 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 18. **Contar los números primos hasta n**
-    -For: '18.0.ContarPrimos-For.c'
+
+     -For: '18.0.ContarPrimos-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/18.0.ContarPrimos-For.c'
     
     -While: '18.1.ContarPrimos-While.c'
@@ -205,6 +223,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 19. **Calcular el n-ésimo número triangular**
+
     -For: '19.0.NumeroTriangular-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/19.0.NumeroTriangular-For.c'
     
@@ -216,6 +235,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     
 
 20. **Calcular la suma de los factoriales de los primeros n números**
+
     -For: '20.0.NSumaFactoriales-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/20.0.NSumaFactoriales-For.c'
     
