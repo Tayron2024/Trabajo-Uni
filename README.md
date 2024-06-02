@@ -7,7 +7,7 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con `do while`. A continuación se detalla la ubicación de cada uno de los ejercicios: 
 
 1. **Suma de los dígitos de un número**
-   -For : 1.0.SumaDigitos-For.c
+   -For : '1.0.SumaDigitos-For.c'
    -While: 1.1..SumaDigitos-While.c
    -Do While: 1.2.SumaDigitos-DoWhile.c
 
