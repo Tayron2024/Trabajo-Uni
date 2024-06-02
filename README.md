@@ -18,7 +18,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/aa69b45bea63096471492bc5c0835e154d71ef49/1.2.SumaDigitos-DoWhile.c'
 
 
-3. **Inverso de un número**
+2. **Inverso de un número**
 
     -For: '2.0.InversoNumero-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/3845640b46ec10091356deadf1e6fadecf2c604e/2.0.InversoNumero-For.c'
@@ -30,7 +30,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/3845640b46ec10091356deadf1e6fadecf2c604e/2.2.InversoNumero-DoWhile.c'
    
 
-4. **Potencia mediante sumas sucesivas**
+3. **Potencia mediante sumas sucesivas**
 
    -For: '3.0.SumaPotencia-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/3845640b46ec10091356deadf1e6fadecf2c604e/3.0.SumaPotencia-For.c'
@@ -42,7 +42,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/3845640b46ec10091356deadf1e6fadecf2c604e/3.2.SumaPotencia-DoWhile.c'
    
 
-5. **Radicación mediante restas sucesivas**
+4. **Radicación mediante restas sucesivas**
 
    -For: '4.0.RadicacionRestas-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/4.0.RadicacionRestas-For.c'
@@ -54,7 +54,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/fa9678cc6582f6607f916fbb832bd6512b567382/4.2.RadicacionRestas-DoWhile.c'
    
    
-6. **Serie de Fibonacci**
+5. **Serie de Fibonacci**
 
    -For: '5.0.Fibonacci-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/5.0.Fibonacci-For.c'
@@ -66,7 +66,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/5.2.Fibonacci_DoWhile.c'
    
 
-7. **Factorial de un número**
+6. **Factorial de un número**
 
     -For: '6.0.FactorialNumero-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/6.0.FactorialNumero-For.c'
@@ -78,7 +78,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/6.2.FactorialNumero-DoWhile.c'
    
 
-8. **Suma de una serie aritmética**
+7. **Suma de una serie aritmética**
 
    -For: '7.0.+SerieAritmetica-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/7.0.%2BSerieAritmetica-For.c'
@@ -90,7 +90,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/7.2.%2BSerieAritmetica-DoWhile.c'
    
 
-9. **Producto de una serie geométrica**
+8. **Producto de una serie geométrica**
 
    -For: '8.0.SerieGeometrica-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/8.0.SerieGeometrica-For.c'
@@ -102,7 +102,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/8.2.SerieGeometrica-DoWhile.c'
    
 
-10. **Número de dígitos de un número**
+9. **Número de dígitos de un número**
 
    -For: '9.0.DigitosNumeros-For.c'
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/9.0.DigitosNumeros-For.c'
@@ -114,7 +114,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
    'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/9.2.DigitosNumeros-DoWhile.c'
    
 
-11. **Verificar si un número es primo**
+10. **Verificar si un número es primo**
 
      -For: '10.0.NumeroPrimo-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/10.0.NumeroPrimo-For.c'
@@ -126,7 +126,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/10.2.NumeroPrimo-DoWhile.c'
     
 
-12. **Encontrar el MCD (Máximo Común Divisor)**
+11. **Encontrar el MCD (Máximo Común Divisor)**
 
     -For: '11.0.MCD-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/11.0.MCD-For.c'
@@ -138,7 +138,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/11.2.MCD-DoWhile.c'
     
 
-13. **Sumar los números impares hasta n**
+12. **Sumar los números impares hasta n**
 
     -For: '12.0.SumaImpares-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/12.0.SumaImpares-For.c'
@@ -150,7 +150,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/12.2.SumaImpares-DoWhile.c'
     
 
-14. **Sumar los números pares hasta n**
+13. **Sumar los números pares hasta n**
 
     -For: '13.0.SumaPares-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/13.0.SumaPares-For.c'
@@ -162,7 +162,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/13.2.SumaPares-DoWhile.c'
     
 
-15. **Suma de los cuadrados de los primeros n números**
+14. **Suma de los cuadrados de los primeros n números**
 
     -For: '14.0.SumaCuadrados-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/14.0.SumaCuadrados-For.c'
@@ -174,7 +174,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/14.2.SumaCuadrados-DoWhile.c'
     
 
-16. **Suma de los cubos de los primeros n números**
+15. **Suma de los cubos de los primeros n números**
 
      -For: '15.0.SumaCubos-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/15.0.SumaCubos-For.c'
@@ -186,7 +186,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/15.2.SumaCubos-DoWhile.c'
     
 
-17. **Suma de una serie de números fraccionarios**
+16. **Suma de una serie de números fraccionarios**
 
     -For: '16.0.SumaFraccionarios-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/16.0.SumaFraccionarios-For.c'
@@ -198,7 +198,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/16.2.SumaFraccionarios-DoWhile.c'
     
 
-18. **Producto de una serie de números fraccionarios**
+17. **Producto de una serie de números fraccionarios**
 
     -For: '17.0.ProductoSerie-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/17.0.ProductoSerie-For.c'
@@ -210,7 +210,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/17.2.ProductoSerie-DoWhile.c'
     
 
-19. **Contar los números primos hasta n**
+18. **Contar los números primos hasta n**
 
      -For: '18.0.ContarPrimos-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/18.0.ContarPrimos-For.c'
@@ -222,7 +222,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/18.2.ContarPrimos-DoWhile.c'
     
 
-20. **Calcular el n-ésimo número triangular**
+19. **Calcular el n-ésimo número triangular**
 
     -For: '19.0.NumeroTriangular-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/19.0.NumeroTriangular-For.c'
@@ -234,7 +234,7 @@ Cada ejercicio tiene tres versiones, una con `for`, otra con `while` y otra con 
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/19.2.NumeroTriangular-DoWhile.c'
     
 
-21. **Calcular la suma de los factoriales de los primeros n números**
+20. **Calcular la suma de los factoriales de los primeros n números**
 
     -For: '20.0.NSumaFactoriales-For.c'
     'https://github.com/Tayron2024/Trabajo-Uni/blob/b2aef120c0771bcb87a0593a2699c159d923a75b/20.0.NSumaFactoriales-For.c'
