@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 
 int main() {
     int n, i = 1;
@@ -9,7 +8,15 @@ int main() {
     scanf("%d", &n);
 
     do {
-        producto *= a * pow(r, i - 1); 
+        double potencia = 1.0;
+        int j = 1;
+        if (i > 1) { // Solo calcula la potencia si i > 1
+            do {
+                potencia *= r;
+                j++;
+            } while (j < i);
+        }
+        producto *= a * potencia;
         i++;
     } while (i <= n);
 
